@@ -14,8 +14,9 @@
 ---
 ### Информация о преподавателе
 
-
-[![](элька.jpg)](https://youtube.com/shorts/f-L-ZEzTL2Y?si=EvAJFXnUVM7hq73S)
+<a href="https://youtube.com/shorts/f-L-ZEzTL2Y?si=EvAJFXnUVM7hq73S">
+  <img src="элька.jpg" width="300" alt="элька">
+</a>
 - Вторая Елизавета Инглишевна 
 - Преподавала, когда большинство из Вас не доставали до пола ногами
 - Научит вас Английскому на уровне королевской семьи
