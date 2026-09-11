@@ -22,7 +22,7 @@
 - Крутая и стильная
 - Предскажет Ваш успех одной своей сумочкой
 
-
+[![ytObl](ytObl.jpg)](https://youtube.com/shorts/f-L-ZEzTL2Y?si=EvAJFXnUVM7hq73S)
 
 ---
 ### Полезные ссылки и контакты: 
