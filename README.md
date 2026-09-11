@@ -14,16 +14,18 @@
 ---
 ### Информация о преподавателе
 
-![](элька.jpg)
 
+[![](элька.jpg)](https://youtube.com/shorts/f-L-ZEzTL2Y?si=EvAJFXnUVM7hq73S)
 - Вторая Елизавета Инглишевна 
 - Преподавала, когда большинство из Вас не доставали до пола ногами
 - Научит вас Английскому на уровне королевской семьи
 - Крутая и стильная
 - Предскажет Ваш успех одной своей сумочкой
 
-[![ytObl](ytObl.jpg)](https://youtube.com/shorts/f-L-ZEzTL2Y?si=EvAJFXnUVM7hq73S)
-
 ---
 ### Полезные ссылки и контакты: 
 https://github.com/sofizuki07-sketch 
+
+
+
+RGPU Student              adress@gmail.com                  8 (999) 111-22-33
