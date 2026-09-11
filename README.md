@@ -29,6 +29,6 @@
 - Предскажет Ваш успех одной своей сумочкой
 
 ---
-Другие проекты: https://github.com/sofizuki07-sketch 
+<a href="https://github.com/sofizuki07-sketch">Другие проекты</a>
 
 *RGPU Student*              *adress@gmail.com*                  *8 (999) 111-22-33*
