@@ -1,4 +1,6 @@
-# Hello, world! Это мой первый статический сайт...
+# Hello, world!
+Это мой первый статический сайт...
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
@@ -12,7 +14,15 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```text
+mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.
+```
+
+## Пример изображения
+Моя картинка в SourceCraft
+
+![Моя картинка](https://raw.githubusercontent.com/sofizuki07-sketch/sofizuki07-sketch.github.io/main/docs/img/kit-photo.jpg)
+```
